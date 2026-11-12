@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SMS Forwarder</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_rules">Rules</string>
+    <string name="nav_history">History</string>
+    <string name="nav_settings">Settings</string>
+    <string name="channel_service_name">SMS Forwarder Service</string>
+    <string name="channel_service_desc">Persistent status notification for the background SMS forwarding service</string>
+</resources>
